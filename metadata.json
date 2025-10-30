@@ -1,0 +1,5 @@
+{
+  "name": "Copy of CardSense",
+  "description": "A mobile-first web app that uses AI to parse credit card expense SMS messages and track spending against monthly limits. Data is stored locally for offline use.",
+  "requestFramePermissions": []
+}
